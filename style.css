@@ -1,0 +1,139 @@
+.container {
+    background-color: rgb(12, 141, 173);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+width: 50vw;
+position: relative;
+left: 300px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 600;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.play {
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: 800;
+    position: relative;
+    right: 45px;
+}
+
+.computer {
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: 800;
+    position: relative;
+    left: 47px;
+}
+
+.hot {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500;
+
+position: relative;
+right: 100px;
+margin-top: 8px;
+}
+
+.cool {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+left: 83px;
+position: relative;
+margin-top: 80px;
+
+}
+
+.move{
+color: aliceblue;
+font-size: 27px;
+position: relative;
+margin-top: 10px;
+}
+
+.left{
+color: aliceblue;
+margin-top: 10px;
+position: relative;
+margin-top: 10px;
+
+}
+.A{
+background-color: green;
+color: aliceblue;
+padding: 11px;
+
+border-style: none;
+border-radius: 7px;
+}
+.A:hover{
+box-shadow: 0 0 5px rgba(240, 242, 244, 0.5);
+cursor: pointer;
+border-color: azure;
+padding: 10px;
+}
+.B:hover{
+box-shadow: 0 0 5px rgba(240, 242, 244, 0.5);
+cursor: pointer;
+border-color: azure;
+padding: 10px;
+}
+.C:hover{
+box-shadow: 0 0 5px rgba(240, 242, 244, 0.5);
+cursor: pointer;
+border-color: azure;
+padding: 10px;
+}
+
+
+
+.B{
+background-color: green;
+color: aliceblue;
+margin-left: 20px;
+margin-right: 20px;
+padding: 11px;
+border-style: none;
+border-radius: 7px;
+
+}
+.C{
+background-color: green;
+color: aliceblue;
+padding: 11px;
+border-style: none;
+border-radius: 7px;
+}
+
+.button{
+margin-top: 10px;
+
+}
+
+body {
+    overflow-x: hidden;
+  
+    object-fit: contain;
+  
+  }
+
+  .restart{
+color: whitesmoke;
+font-size: 30px;
+border: 2px solid none;
+background-color: green;
+padding-left: 3px;
+padding-right: 3px;
+border-radius: 3px;
+  }
