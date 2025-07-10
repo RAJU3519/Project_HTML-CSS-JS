@@ -1,40 +1,36 @@
-# Rock Paper Scissors 🎮
+# 🎮 Rock Paper Scissors Game
 
-A simple interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer for 10 rounds and see who wins!
+An interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer in a 10-move match and see who wins!
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Play Rock Paper Scissors Game](https://rock-paper-scissors-raju.netlify.app)
 
 ---
 
 ## ✨ Features
 
-- 🎯 10 rounds of gameplay
-- 👨‍💻 Player vs Computer logic
-- 🧠 Random computer move generation
+- 🎯 10 rounds of player vs computer
+- 🧠 Random move generation for the computer
 - 🔢 Real-time score tracking
-- 🧼 Restart button to play again
-- 💻 Clean and responsive UI
+- 📉 Game over logic with restart functionality
+- 💻 Responsive and clean UI
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5** – Markup and structure
-- **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – Game logic and DOM manipulation
+- **HTML5** – Semantic structure
+- **CSS3** – Custom styling & layout
+- **JavaScript** – DOM manipulation & game logic
 
 ---
 
-## 📂 Folder Structure
-├── index.html # Main HTML file
-├── style.css # Styling file
-├── script2.js # JavaScript file for game logic
-└── README.md # This file
-
-1. Clone the repository:
-   ```bash
-   
-https://github.com/RAJU3519/Project_HTML-CSS-JS
 
 
 
+[GitHub Repository](https://github.com/RAJU3519/Project_HTML-CSS-JS)
 
 
