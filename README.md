@@ -31,7 +31,8 @@ A simple interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, and
 
 1. Clone the repository:
    ```bash
-   git clone [GitHub Repository](https://github.com/RAJU3519/Project_HTML-CSS-JS)
+   
+https://github.com/RAJU3519/Project_HTML-CSS-JS
 
 
 
